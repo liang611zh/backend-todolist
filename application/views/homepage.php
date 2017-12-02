@@ -1,4 +1,4 @@
-<div class="alert alert-info">{remaining_tasks} tasks are left to do!</div>
+<!-- <div class="alert alert-info">{remaining_tasks} tasks are left to do!</div>
 <table class="table">
     <tr>
 		{display_tasks}
@@ -9,4 +9,5 @@
 		</tr>
 		{/display_tasks}
     </tr>
-</table>
+</table> -->
+<H1>This is server app.</H1>
