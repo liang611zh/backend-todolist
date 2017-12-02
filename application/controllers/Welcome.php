@@ -42,6 +42,7 @@ class Welcome extends Application
 		// $this->data['display_tasks'] = $display_tasks;
 
 		//$this->render(); 
+		$this->load->view('homepage');
 		
 	}
 

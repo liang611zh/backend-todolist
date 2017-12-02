@@ -10,4 +10,4 @@
 		{/display_tasks}
     </tr>
 </table> -->
-<H1>{homepage_content}}</H1>
+<H1>This is server app.</H1>
